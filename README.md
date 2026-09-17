@@ -1,4 +1,4 @@
-# 🎨 Safi  
+# 🎨 SAFI APP 
 
 ![Safi Banner](./assets/banner.png)  
 <!-- Replace with your actual banner image path -->
